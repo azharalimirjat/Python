@@ -1,7 +1,7 @@
 """
-STRING DATA TYPE
-Strings are sequences of character data.
-The string type in Python is called str .
+STRING DATA TYPE:
+   Strings are sequences of characters data.
+==> The string type in Python is called str .
 """
 
 # Defining String
