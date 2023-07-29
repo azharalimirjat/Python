@@ -10,7 +10,7 @@ fullname = firstname+lastname
 print(fullname) #(Output will be AzharAli) => this is known as String Concatenation
 
 
-# Concatenation of two or more numbers used as numbers
+# Concatenation of two or more numbers used as strings
 a = "1"
 b = "2"
 print(a+b) #Ouput will be ( "12" )
