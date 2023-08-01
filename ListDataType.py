@@ -22,3 +22,5 @@ print(citylist)
 print(citylist[0]) #Output: Jamshoro
 
 print(citylist[3]) #output: Sukkur
+
+#there are many other List data types as well
