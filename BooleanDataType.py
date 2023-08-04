@@ -19,18 +19,18 @@ print(2==4) #Output: false
 print(2!=2) #Output: false
 print(3!=2) #Output: true
 
-# 2. Greater than ( > )
+# 3. Greater than ( > )
 print(2>3) #Output: false
 print(3>2) #Output: true
 
-# 2. less than ( < )
+# 4. less than ( < )
 print(4<3) #Output: false
 print(2<3) #Output: true
 
-# 2. Greater or equal to  ( >= )
+# 5. Greater than or equal to  ( >= )
 print(2>=3) #Output: false
 print(3>=2) #Output: true
 
-# 2. less than ( > )
+# 6. less than or equal to ( <= )
 print(2<=3) #Output: true
 print(10<=5) #Output: false
