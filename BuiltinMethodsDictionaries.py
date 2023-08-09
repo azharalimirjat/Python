@@ -64,3 +64,6 @@ print(car_dic) #tyres key with its value has be removed from dictionary
 # We can remove any key:value pair using key by pop() mehtod
 car_dic.pop('model')
 print(car_dic) #model key with its value has be removed from dictionary
+
+
+# => There are many other built-in methods you can use
