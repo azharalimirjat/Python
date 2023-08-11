@@ -4,7 +4,8 @@ USER INPUT/String Formatting advance:
     When the user enters some data and hits enter,
     Python stores the data in a variable as a string.
 
-==> NOTE: Input always takes the string type values
+==> NOTE: Input always takes the string type values that's why
+          you can change the data type by your choice.
 
 
 Syntax:
