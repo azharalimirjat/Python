@@ -2,7 +2,7 @@
 BOOLEAN DATA TYPE:
     Python boolean type is one of the built-in data types provided by Python,
     which represents one of the two values i.e. True or False.
-
+=> Note that we represent true as 1 and false as 0.
 For example,
     1==1 is True whereas
     2<1 is False.
