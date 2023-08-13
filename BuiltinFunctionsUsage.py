@@ -5,6 +5,7 @@
 ==>These functions are known as Built-in Functions.
 
 ==> We access all functions by dot(.) operator
+Following are the examples:
 """
 name= "Azhar Ali Mirjat"
 
