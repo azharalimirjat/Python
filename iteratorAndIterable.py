@@ -36,3 +36,5 @@ print(next(var_a)) # Output: 9
 print('For Loop is being used here')
 for var_b in list:
     print(var_b)
+
+# This is a intro of for Loop, we will be learning this loops in detail in further programs
