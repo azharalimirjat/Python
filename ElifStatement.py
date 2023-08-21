@@ -47,3 +47,6 @@ elif marks>=50 & marks<=59:
     print("You got C Grade")
 else:
     print("You Failed the Subject")
+
+
+# You can use Elif statement for other purposes as well if you want to execute only one condition at a time.
