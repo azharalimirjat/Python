@@ -33,3 +33,6 @@ if number > 0:
 else:
     print('Negative number')
 # OUTPUT: Positive number
+
+
+# We can use if else statement in loops as well.
